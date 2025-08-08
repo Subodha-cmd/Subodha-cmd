@@ -36,5 +36,5 @@ I'm an aspiring **Electronics and Telecommunication Engineering undergraduate** 
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://www.linkedin.com/in/suboda-peiris-3227992b1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:subodhapeiris@gmail.com)
