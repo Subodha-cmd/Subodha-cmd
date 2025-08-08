@@ -7,18 +7,7 @@ I'm an aspiring **Electronics and Telecommunication Engineering undergraduate** 
 ## 🚀 About Me
 
 - 🎓 I'm currently studying **BSc in Electronics and Telecommunication Engineering** at **University of Moratuwa**
-- 🛠️ I’m currently working on:
-  - 🚗 A vehicle-mounted device to display speed and transmit GPS data
-  - 🤖 Line following robots with encoder feedback
-- 🌱 I’m currently learning:
-  - **RISC-V Assembly**
-  - **Advanced Arduino motor control**
-  - **Simulink modeling for real-time systems**
-- 👯 I’m looking to collaborate on **robotics**, **IoT**, and **embedded system projects**
-- 💬 Ask me about:
-  - Arduino motor drivers
-  - Rotary encoder interfacing
-  - C++ and Git basics
+
 - 📫 How to reach me: **subodhapeiris@gmail.com**
 - ⚡ Fun fact: I enjoy turning simple ideas into working hardware, one bug fix at a time!
 
